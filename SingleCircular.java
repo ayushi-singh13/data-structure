@@ -1,3 +1,5 @@
+//single circular list
+
 import java.util.*;
 class node{
 	int data;
