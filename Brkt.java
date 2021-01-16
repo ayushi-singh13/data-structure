@@ -1,3 +1,5 @@
+//checks if given string has balanced brackets using stack
+
 import java.util.*;
 class stk{
  char arr[]=new char[100];
